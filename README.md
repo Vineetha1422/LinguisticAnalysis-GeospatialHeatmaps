@@ -28,6 +28,10 @@ This project visualizes phonological variation across 87 Black Boston speakers u
   - [pykrige Example](https://github.com/ERSSLE/ordinary_kriging/blob/master/example.ipynb)
   - [PyKrige Docs](https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/generated/pykrige.ok.OrdinaryKriging.html)
 
+## 🔒 Data Access
+
+The datasets used in this project are not publicly available due to privacy and usage restrictions. Please contact the project team for more information or data access inquiries.
+
 
 ## 📂 Project Workflow
 
