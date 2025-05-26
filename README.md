@@ -10,6 +10,18 @@ This project visualizes phonological variation across 87 Black Boston speakers u
 
 ---
 
+## 📌 Tools & Technologies
+- **Python**: `geopandas`, `pykrige`, `matplotlib`, `plotly`
+- **R**: Score calculation
+- **Basemap**: CartoDB
+- **GIS**: ArcGIS Pro (for shape files)
+- **Sources**:
+  - [SuperMap Kriging Docs](https://help.supermap.com/iDesktop/en/tutorial/Analyst/Raster/interpolation/OrdinaryKriging)
+  - [pykrige Example](https://github.com/ERSSLE/ordinary_kriging/blob/master/example.ipynb)
+  - [PyKrige Docs](https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/generated/pykrige.ok.OrdinaryKriging.html)
+
+---
+
 ## 📂 Project Workflow
 
 ### 1. **Data Preparation**
@@ -73,15 +85,3 @@ This project visualizes phonological variation across 87 Black Boston speakers u
   - **NE Average**
   - **Rhoticity Aggregation**
 - Columns with `*` underwent complement transformation.
-
----
-
-## 📌 Tools & Technologies
-- **Python**: `geopandas`, `pykrige`, `matplotlib`, `plotly`
-- **R**: Score calculation
-- **Basemap**: CartoDB
-- **GIS**: ArcGIS Pro (for shape files)
-- **Sources**:
-  - [SuperMap Kriging Docs](https://help.supermap.com/iDesktop/en/tutorial/Analyst/Raster/interpolation/OrdinaryKriging)
-  - [pykrige Example](https://github.com/ERSSLE/ordinary_kriging/blob/master/example.ipynb)
-  - [PyKrige Docs](https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/generated/pykrige.ok.OrdinaryKriging.html)
