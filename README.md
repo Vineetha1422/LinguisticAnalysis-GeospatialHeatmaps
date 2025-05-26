@@ -31,6 +31,7 @@ This project visualizes phonological variation across 87 Black Boston speakers u
 ## 🔒 Data Access
 
 The datasets used in this project are not publicly available due to privacy and usage restrictions. Please contact the project team for more information or data access inquiries.
+Project Link : [blackbostonspeaks.netlify.app](https://blackbostonspeaks.netlify.app/)
 
 
 ## 📂 Project Workflow
