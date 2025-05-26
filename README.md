@@ -10,12 +10,22 @@ This project visualizes phonological variation across 87 Black Boston speakers u
 
 ---
 
-## 📌 Tools & Technologies
-- **Python**: `geopandas`, `pykrige`, `matplotlib`, `plotly`
-- **R**: Score calculation
-- **Basemap**: CartoDB
-- **GIS**: ArcGIS Pro (for shape files)
-- **Sources**:
+## 🛠️ Tech Stack – Black Boston Speaks (Spatial Analysis)
+
+**📍 Spatial Analysis & Mapping**  
+![GeoPandas](https://img.shields.io/badge/GeoPandas-Spatial%20Data%20Analysis-green)  
+![PyKrige](https://img.shields.io/badge/PyKrige-Kriging%20Interpolation-blueviolet)  
+![Basemap](https://img.shields.io/badge/Basemap-CartoDB-lightgrey)  
+![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-Shape%20File%20Mapping-success)
+
+**📈 Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Static%20Plots-orange)  
+![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-brightgreen)
+
+**🧮 Statistical Scoring**  
+![R](https://img.shields.io/badge/R-Score%20Computation-1f425f)
+
+**Sources**:
   - [SuperMap Kriging Docs](https://help.supermap.com/iDesktop/en/tutorial/Analyst/Raster/interpolation/OrdinaryKriging)
   - [pykrige Example](https://github.com/ERSSLE/ordinary_kriging/blob/master/example.ipynb)
   - [PyKrige Docs](https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/generated/pykrige.ok.OrdinaryKriging.html)
