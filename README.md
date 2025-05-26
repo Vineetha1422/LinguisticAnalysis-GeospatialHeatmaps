@@ -91,4 +91,3 @@ This project visualizes phonological variation across 87 Black Boston speakers u
   - **AAL + SFVS**
   - **NE Average**
   - **Rhoticity Aggregation**
-- Columns with `*` underwent complement transformation.
