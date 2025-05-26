@@ -2,13 +2,11 @@
 
 📌 Project Type: Research + Data Visualization + Geospatial Modeling
 
----
 
 ## 🔍 Overview
 
 This project visualizes phonological variation across 87 Black Boston speakers using high-resolution geospatial heatmaps. Using vowel formant data and speaker geolocations, we apply **Ordinary Kriging** to interpolate scores and reveal spatial linguistic patterns.
 
----
 
 ## 🛠️ Tech Stack – Black Boston Speaks (Spatial Analysis)
 
@@ -30,7 +28,6 @@ This project visualizes phonological variation across 87 Black Boston speakers u
   - [pykrige Example](https://github.com/ERSSLE/ordinary_kriging/blob/master/example.ipynb)
   - [PyKrige Docs](https://geostat-framework.readthedocs.io/projects/pykrige/en/stable/generated/pykrige.ok.OrdinaryKriging.html)
 
----
 
 ## 📂 Project Workflow
 
